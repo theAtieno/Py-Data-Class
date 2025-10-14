@@ -1,11 +1,6 @@
 # Data Analytics with Python
 
 Weekly Python data analysis projects covering:
-- Numpy
-- Pandas
-  - Core data manipulation
-  - Visualization
-  - Storytelling concepts.
 
 Each folder represents a key milestone in the learning journey — from mastering NumPy and Pandas to applying insights through visualization and storytelling.
 
